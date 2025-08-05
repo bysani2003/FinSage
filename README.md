@@ -153,6 +153,6 @@ FinSage was built by Sujith Bysani Santhosh (*bysanisujith2003*). It integrates 
 ### ​ Connect
 
 - GitHub: [bysani2003](https://github.com/bysani2003)  
-- LinkedIn: [Profile Link]  
+- LinkedIn: [bysani2003](https://www.linkedin.com/in/sujith-bysani-santhosh-51b55020a/)
 - Email: bysanisujith2003@gmail.com
 
